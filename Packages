@@ -1,0 +1,13 @@
+Package: com.leehao178.filza
+Version: 3.4.2
+Architecture: iphoneos-arm
+Maintainer: leehao178 <leehao178@gmail.com>
+Filename: /filza.deb
+Size: 10635544
+MD5sum: 500e96ab21cb0c90655d0605c8c45e6a
+SHA1: ceffe50caa03e9adc79e3162bafb51880885688e
+SHA256: deb4e6efc5823b3dfb0908a8766298fc46664162db79f6b29abcaa803f43829a
+Section: Tweaks
+Description: A test tweak for my repo
+Author: leehao178 <leehao178@gmail.com>
+Name: Filza leehao178
